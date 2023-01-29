@@ -8,7 +8,9 @@ Binary data files are located at a directory /binary. Each binary file includes 
 |Penrose tiling|Penrose.bin | 1 000 061 | 1 997 950    |
 |Ammann-Beenker tiling|AmmannBeenker.bin|1 000 017 | 1 997 824|
 |Stampfli tiling|Stampfli.bin|1 000 020|5 065 976             |
-|Socolar dodecagonal tiling [1]|Dodecagonal.bin|1 000 011| 1 815 192 |
-|Eight-tile hexagonal golden-mean tiling [2]|8TileGMT.bin|1 000 021 |1 997 760|
+|Socolar dodecagonal tiling|Dodecagonal.bin|1 000 011| 1 815 192 |
+|Eight-tile hexagonal golden-mean tiling|8TileGMT.bin|1 000 021 |1 997 760|
+|Bronze-mean tilings|Bronze.bin|1 000 026|5 085 808|
+
 
 *This is the exact value in the thermodynamic limit. (Longer) bond length is the unit.
