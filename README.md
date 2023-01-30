@@ -1,7 +1,7 @@
 # 2Dtilings-Binary
 
 ## Binary files
-Binary data files are located at a directory /binary. Each binary file includes the vertex points (~ one million) and nearest-neighbor bonds. The structure of the data should be clear after reading the source code of "src.cpp". Larger lattice data is upon request.
+Each binary file includes the vertex points (~ one million) and nearest-neighbor bonds. Larger lattice data is upon request.
 
 |Name| File | Sites | Bonds |
 |:--|:-----------|:-----------:|:------------:|
